@@ -1,0 +1,75 @@
+[09-Mar-2015 13:27:22 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/hwebsdwc/public_html/trinitykerala.com/application/controllers/login.php on line 28
+[09-Mar-2015 13:27:40 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/hwebsdwc/public_html/trinitykerala.com/application/controllers/login.php on line 28
+[19-Aug-2016 22:51:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:51:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:52:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:53:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:53:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:53:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:54:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:54:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:56:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 22:58:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[19-Aug-2016 23:05:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeDetail.php on line 723
+[03-Oct-2016 07:30:54 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 2
+[03-Oct-2016 07:31:06 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 2
+[05-Nov-2016 10:08:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 108
+[05-Nov-2016 10:09:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 108
+[05-Nov-2016 10:16:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 107
+[05-Nov-2016 10:16:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '{' in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 107
+[05-Nov-2016 14:58:57 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_row() in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 115
+[05-Nov-2016 15:00:58 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_row() in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 115
+[05-Nov-2016 15:01:03 Asia/Calcutta] PHP Fatal error:  Call to undefined method stdClass::num_row() in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 115
+[05-Nov-2016 15:04:21 Asia/Calcutta] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gfincpnt/public_html/iti/application/views/ajax/feeReport.php on line 141
+[03-Feb-2017 08:04:09 Asia/Calcutta] PHP Fatal error:  Call to undefined method feeduemodel::checkStock1() in /home/gfincpnt/public_html/iti/application/controllers/feeControllers.php on line 141
+[03-Feb-2017 08:04:09 Asia/Calcutta] PHP Fatal error:  Call to undefined method feeduemodel::checkStock1() in /home/gfincpnt/public_html/iti/application/controllers/feeControllers.php on line 141
+[03-Feb-2017 08:04:09 Asia/Calcutta] PHP Fatal error:  Call to undefined method feeduemodel::checkStock1() in /home/gfincpnt/public_html/iti/application/controllers/feeControllers.php on line 141
+[03-Feb-2017 08:05:31 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:05:41 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:05:41 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:05:41 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:06:48 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:06:48 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:06:48 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:06:49 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:06:49 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:07:32 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:07:33 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:12:38 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:12:39 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:14:21 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:14:29 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[03-Feb-2017 08:17:17 Asia/Calcutta] PHP Fatal error:  Cannot redeclare feeduemodel::checkStock2() in /home/gfincpnt/public_html/iti/application/models/feeduemodel.php on line 40
+[09-Jul-2017 15:34:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/gfincpnt/public_html/saliti.in/iti/application/views/viewdetail.php on line 51
+[09-Jul-2017 15:35:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/gfincpnt/public_html/saliti.in/iti/application/views/viewdetail.php on line 51
+[09-Jul-2017 16:45:14 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gfincpnt/public_html/saliti.in/iti/application/views/viewdetail.php on line 62
+[09-Jul-2017 16:55:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '<' in /home/gfincpnt/public_html/saliti.in/iti/application/views/viewdetail.php on line 66
+[10-Jul-2017 16:08:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 30
+[10-Jul-2017 16:08:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 30
+[10-Jul-2017 16:08:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 30
+[10-Jul-2017 16:10:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 30
+[10-Jul-2017 16:10:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 30
+[10-Jul-2017 16:11:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 30
+[10-Jul-2017 16:19:07 Asia/Calcutta] PHP Fatal error:  Call to undefined method CI_Loader::models() in /home/gfincpnt/public_html/saliti.in/iti/application/controllers/dayBookControllers.php on line 14
+[31-Aug-2017 12:08:08 Asia/Calcutta] PHP Fatal error:  Function name must be a string in /home/gfincpnt/public_html/saliti.in/iti/application/views/viewdetail.php on line 19
+[15-Sep-2017 13:13:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gfincpnt/public_html/saliti.in/iti/application/views/ajax/feeReport.php on line 126
+[15-Sep-2017 13:13:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gfincpnt/public_html/saliti.in/iti/application/views/ajax/feeReport.php on line 126
+[15-Sep-2017 13:13:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/gfincpnt/public_html/saliti.in/iti/application/views/ajax/feeReport.php on line 126
+[16-Nov-2018 08:48:27 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[16-Nov-2018 08:48:27 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:00 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:00 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:03 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:03 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:04 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:04 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:06 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:06 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:09 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:09 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:15 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:15 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:29 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:29 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
+[17-Nov-2018 05:27:33 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[17-Nov-2018 05:27:33 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home/gfincpnt/public_html/saliti.in/iti/index.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in Unknown on line 0
